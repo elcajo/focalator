@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42bc417d5cc3be0b036cfe7a47020730",
+    "revision": "0e1fd899964891d2866ae308bd35a335",
     "url": "/focalator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/focalator/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "b2dffc7452bea5721af5",
+    "revision": "38b13246a6c574350b71",
     "url": "/focalator/static/css/main.b8adf444.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/focalator/static/js/2.a138cca2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2dffc7452bea5721af5",
-    "url": "/focalator/static/js/main.8ac07e06.chunk.js"
+    "revision": "38b13246a6c574350b71",
+    "url": "/focalator/static/js/main.01e4f280.chunk.js"
   },
   {
     "revision": "5c0fc6dd8f3253b1f165",
