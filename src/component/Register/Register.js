@@ -98,8 +98,9 @@ render(){
 	    <div className="">
 	      <input 
 	      onClick={this.onSubmitRegister}
-	      className="br3 ba b--black-20 mw6 shadow-5 b ph3 pv2 input-reset bg-transparent grow pointer f6 dib" 
-	      type="submit" value="Save" />
+	      className="br3 ba b--black-20 mw6 shadow-5 b ph3 pv2 input-reset bg-transparent grow pointer f6 dib"
+	      title="Register and proceed to Sign in" 
+	      type="submit" value="Register" />
 	    </div>
 	  </div>
 	</main>	
